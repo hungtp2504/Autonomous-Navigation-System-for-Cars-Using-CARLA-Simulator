@@ -1,3 +1,5 @@
+![til](demo.gif)
+
 # Introduction
 * **Project Overview**
      * The "Autonomous-Navigation-System-for-Car" project focuses on developing a self-driving system that integrates two key functionalities: automatic lane-keeping and obstacle detection. 
